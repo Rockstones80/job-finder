@@ -13,9 +13,9 @@ const Hero = () => {
 					consequuntur amet dolores itaque deserunt optio dicta odio sequi, ipsum debitis
 					tempora quo quam? Et aliquid quibusdam dolor amet?
 				</p>
-				<button className="text-white rounded-full bg-indigo-500 w-40 p-3">
+				{/* <button className="text-white rounded-full bg-indigo-500 w-40 p-3">
 					Find Jobs Now
-				</button>
+				</button> */}
 			</div>
 			<div className="w-full h-[calc(80vh-60px)] z-10 bg-indigo-900 opacity-60 absolute top-[60px] left-0"></div>
 		</div>
